@@ -1,8 +1,8 @@
 ### Hello 👋 I'm Developer Jun Young Choi  
 
-#### AD Server Developer
+#### Platform Developer
 
-- Develop AD efficiency analysis service
+- Develop AD efficiency analysis service, Realtime data processing service.
 - I'm Interested in modern Java/JS
 - How to reach me 👇
     <div align=center> 
